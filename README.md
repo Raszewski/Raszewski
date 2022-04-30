@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Krzysztof @Raszewski
+- 👀 I’m interested in software development, databases and video games.
+- 🌱 I’m currently learning C# along with Unity and mastering my PHP skillset.
+- 💞️ I’m looking to collaborate on any project to support my career as a software engineer.
+- 📫 How to reach me - email: krzysztof.raszewski1994@gmail.com
